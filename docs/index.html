@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LexiSmash</title>
+<meta name="description" content="LexiSmash — real-time multiplayer word party game.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" type="image/png" href="https://lexismash.it/img/pwa/icon-192.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+    <div class="container topbar-inner">
+        <div class="brand">
+            <img src="https://lexismash.it/img/pwa/icon-192.png" alt="LexiSmash">
+            <span>LexiSmash</span>
+        </div>
+        <div class="topbar-controls">
+            <select id="lang-select" class="lang-select" data-i18n-aria="lang_select_aria" aria-label="Choose language"></select>
+            <button id="theme-toggle" class="icon-btn" type="button" data-i18n-aria="theme_toggle_aria" aria-label="Toggle light/dark theme">🌙</button>
+        </div>
+    </div>
+</header>
+
+<main>
+    <section class="hero">
+        <div class="container">
+            <span class="eyebrow" data-i18n="eyebrow">GitHub Organization</span>
+            <h1 data-i18n-html="hero_title_html">The word party game, <span class="accent-word">wide open</span></h1>
+            <p class="subtitle" data-i18n="hero_subtitle">LexiSmash is a real-time multiplayer word game.</p>
+            <div class="hero-actions">
+                <a class="btn btn-primary" href="https://lexismash.it" target="_blank" rel="noopener noreferrer" data-i18n="cta_play">🎮 Play at lexismash.it</a>
+                <a class="btn btn-secondary" href="https://github.com/LexiSmash/LexiSmash_dictionaries" target="_blank" rel="noopener noreferrer" data-i18n="cta_dictionary">📖 Open source dictionary</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="features">
+        <div class="container">
+            <h2 class="section-title" data-i18n="features_title">What makes LexiSmash different</h2>
+            <p class="section-lede" data-i18n="features_lede">A word game built for the party.</p>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <span class="emoji">🌍</span>
+                    <h3 data-i18n="feature_1_title">Six complete languages</h3>
+                    <p data-i18n="feature_1_text">Italian, English, French, German, Spanish and Dutch.</p>
+                </div>
+                <div class="feature-card">
+                    <span class="emoji">🎉</span>
+                    <h3 data-i18n="feature_2_title">A real hangout vibe</h3>
+                    <p data-i18n="feature_2_text">Chat, synced jukebox, dynamic backgrounds, avatars.</p>
+                </div>
+                <div class="feature-card">
+                    <span class="emoji">⚖️</span>
+                    <h3 data-i18n="feature_3_title">Fairness built in</h3>
+                    <p data-i18n="feature_3_text">A karma system tracks behavior over time.</p>
+                </div>
+                <div class="feature-card">
+                    <span class="emoji">🏆</span>
+                    <h3 data-i18n="feature_4_title">Progress that lasts</h3>
+                    <p data-i18n="feature_4_text">Friends, achievements, XP/levels, leaderboard.</p>
+                </div>
+                <div class="feature-card">
+                    <span class="emoji">♿</span>
+                    <h3 data-i18n="feature_5_title">Accessible to everyone</h3>
+                    <p data-i18n="feature_5_text">Voice control, gamepad support, keyboard shortcuts.</p>
+                </div>
+                <div class="feature-card">
+                    <span class="emoji">📲</span>
+                    <h3 data-i18n="feature_6_title">Installable and offline</h3>
+                    <p data-i18n="feature_6_text">Installs as an app, playable offline against bots.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="community">
+        <div class="container">
+            <div class="panel">
+                <span class="panel-emoji">📚</span>
+                <div class="panel-text">
+                    <h2 data-i18n="dictionary_title">The dictionary is open source</h2>
+                    <p data-i18n="dictionary_text">The lists of valid words live in a separate public repository.</p>
+                </div>
+                <a class="btn btn-secondary" href="https://github.com/LexiSmash/LexiSmash_dictionaries" target="_blank" rel="noopener noreferrer" data-i18n="dictionary_cta">Go to the repository →</a>
+            </div>
+            <div class="panel">
+                <span class="panel-emoji">🐞</span>
+                <div class="panel-text">
+                    <h2 data-i18n="issues_title">Found a problem?</h2>
+                    <p data-i18n="issues_text">Bug reports and issues are collected right here.</p>
+                </div>
+                <a class="btn btn-secondary" href="https://github.com/LexiSmash/.github/issues" target="_blank" rel="noopener noreferrer" data-i18n="issues_cta">Open an Issue →</a>
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="footer-links">
+            <a href="https://lexismash.it" target="_blank" rel="noopener noreferrer" data-i18n="footer_play">Play</a>
+            <a href="https://github.com/LexiSmash/LexiSmash_dictionaries" target="_blank" rel="noopener noreferrer" data-i18n="footer_dictionary">Dictionary</a>
+            <a href="https://github.com/LexiSmash/.github/issues" target="_blank" rel="noopener noreferrer" data-i18n="footer_issues">Report an issue</a>
+        </div>
+        <p data-i18n="footer_license">© LexiSmash</p>
+    </div>
+</footer>
+
+<script src="js/theme.js"></script>
+<script src="js/i18n.js"></script>
+</body>
+</html>
