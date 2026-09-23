@@ -73,3 +73,11 @@ De code van het spel blijft eigendomsrechtelijk beschermd; de
 woordenboekgegevens in [LexiSmash_dictionaries](https://github.com/LexiSmash/LexiSmash_dictionaries)
 worden daarentegen verspreid onder een open licentie (details in de
 README van dat repository).
+
+<a href="https://github.com/R0mb0/Crafted_with_AI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/CraftedWithAIDark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/NotMadeByAILight.svg">
+    <img alt="Not made by AI" src="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/NotMadeByAIDefault.svg">
+  </picture>
+</a>
