@@ -6,7 +6,7 @@
 
 **Das kostenlose Multiplayer-Wortspiel in Echtzeit**
 
-[🇮🇹 Italiano](README.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · 🇩🇪 Deutsch · [🇪🇸 Español](README.es.md) · [🇳🇱 Nederlands](README.nl.md)
+[🇮🇹 Italiano](README.it.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · 🇩🇪 Deutsch · [🇪🇸 Español](README.es.md) · [🇳🇱 Nederlands](README.nl.md)
 
 [🎮 Spielen auf lexismash.it](https://lexismash.it) · [📖 Open-Source-Wörterbuch](https://github.com/LexiSmash/LexiSmash_dictionaries) · [🐞 Ein Problem melden](https://github.com/LexiSmash/.github/issues)
 
