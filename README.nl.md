@@ -6,7 +6,7 @@
 
 **Het gratis multiplayer woordspel in real time**
 
-[🇮🇹 Italiano](README.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇩🇪 Deutsch](README.de.md) · [🇪🇸 Español](README.es.md) · 🇳🇱 Nederlands
+[🇮🇹 Italiano](README.it.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇩🇪 Deutsch](README.de.md) · [🇪🇸 Español](README.es.md) · 🇳🇱 Nederlands
 
 [🎮 Speel op lexismash.it](https://lexismash.it) · [📖 Open source woordenboek](https://github.com/LexiSmash/LexiSmash_dictionaries) · [🐞 Een probleem melden](https://github.com/LexiSmash/.github/issues)
 
