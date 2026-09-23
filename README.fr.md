@@ -75,3 +75,11 @@ Le code du jeu reste propriétaire ; les données du dictionnaire dans
 [LexiSmash_dictionaries](https://github.com/LexiSmash/LexiSmash_dictionaries)
 sont en revanche distribuées sous licence ouverte (détails dans le
 README de ce repository).
+
+<a href="https://github.com/R0mb0/Crafted_with_AI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/CraftedWithAIDark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/NotMadeByAILight.svg">
+    <img alt="Not made by AI" src="https://github.com/R0mb0/Crafted_with_AI/blob/main/Badge/SVG/NotMadeByAIDefault.svg">
+  </picture>
+</a>
