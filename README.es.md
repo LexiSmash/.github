@@ -6,7 +6,7 @@
 
 **El party game de palabras multijugador, en tiempo real, gratuito**
 
-[🇮🇹 Italiano](README.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇩🇪 Deutsch](README.de.md) · 🇪🇸 Español · [🇳🇱 Nederlands](README.nl.md)
+[🇮🇹 Italiano](README.it.md) · [🇬🇧 English](README.en.md) · [🇫🇷 Français](README.fr.md) · [🇩🇪 Deutsch](README.de.md) · 🇪🇸 Español · [🇳🇱 Nederlands](README.nl.md)
 
 [🎮 Juega en lexismash.it](https://lexismash.it) · [📖 Diccionario open source](https://github.com/LexiSmash/LexiSmash_dictionaries) · [🐞 Informar de un problema](https://github.com/LexiSmash/.github/issues)
 
